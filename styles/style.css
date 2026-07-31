@@ -37,3 +37,8 @@ section#login {
   height: 500px;
   border-radius:20px;
 }
+
+section#login > div#image {
+  background: #5f2c82 url(../images/pexels-steve-29022333.jpg);
+  height: 200px;
+}
