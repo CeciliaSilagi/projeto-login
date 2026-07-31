@@ -42,5 +42,6 @@ section#login {
 section#login > div#image {
   background: #5f2c82 url(../images/pexels-steve-29022333.jpg);
   background-size: cover;
+  background-position: left bottom;
   height: 200px;
 }
