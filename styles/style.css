@@ -97,3 +97,7 @@ form > a.botton {
 form > a.botton:hover {
   background-color:#49a09d;
 }
+
+form > a.botton > i {
+  font-size: 1em;
+}
