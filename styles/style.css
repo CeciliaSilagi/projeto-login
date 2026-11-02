@@ -77,6 +77,6 @@ form > input[type=submit] {
 }
 
 form > input[type=submit]:hover {
-  background-color: #2c6e6c;
+  background-color: #2c6e55;
   cursor: pointer;
 }
