@@ -75,7 +75,7 @@ form > div.field {
 }
 
 div.field > label {
-  display: block;
+  display: none;
 }
 
 form > input[type=submit] {
