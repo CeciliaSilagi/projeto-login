@@ -65,6 +65,10 @@ div#form > p {
   font-size: 0.8em;
 }
 
+form > div.input-field {
+  background-color:#5f2c82;
+}
+
 form > input[type=submit] {
   display: block;
   font-size: 1em;
