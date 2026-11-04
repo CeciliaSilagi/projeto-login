@@ -39,6 +39,7 @@ section#login {
   border-radius:20px;
   box-shadow: 0px 0px 10px hsla(0, 0%, 0%, 0.445);
 
+  transform: translate(-50%, -50%);
   transition: width .3s, height .3s;
   transition-timing-function: ease;
 }
@@ -91,10 +92,10 @@ div.field > input {
   font-size:1em;
   width: calc(100% - 44px);
   height: 100%;
-  transform: translateY(-10px);
   border: 0px;
   border-radius: 8px;
   padding: 4px;
+  transform: translateY(-10px);
 
 }
 
