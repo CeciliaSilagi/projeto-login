@@ -68,7 +68,7 @@ div#form > p {
 
 form > div.field {
   background-color:#5f2c82;
-  border: 2px solid;
+  border: 2px solid #5f2c82;
   display: block;
   width: 100%;
   height: 40px;
@@ -94,10 +94,11 @@ div.field > input {
   font-size:1em;
   width: calc(100% - 44px);
   height: 100%;
+  transform: translateY(-12px);
   border: 0px;
   border-radius: 8px;
   padding: 4px;
-  transform: translateY(-12px);
+  
 
 }
 
