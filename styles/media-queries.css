@@ -34,13 +34,14 @@ Grandes telas: acima de 1200px
     }
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 992px) /* CONFIGURAÇÃO PARA DESKTOPS */{
     body {
         background-image: linear-gradient(to top,#49a09d, #5f2c82);
     }
     
     section#login {
         width: 990px;
+        height: 350px;
     }
 
     section#login > div#image {
