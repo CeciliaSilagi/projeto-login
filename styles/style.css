@@ -86,12 +86,6 @@ div.field > i {
   padding: 5px;
 }
 
-div.field > i:focus-within {
-  background-color: white;
-  border: none;
-
-}
-
 div.field > input {
   background-color:#49a09d;
   font-size:1em;
@@ -101,6 +95,12 @@ div.field > input {
   border: 0px;
   border-radius: 8px;
   padding: 4px;
+
+}
+
+div.field > i:focus-within {
+  background-color: white;
+  border: none;
 
 }
 
