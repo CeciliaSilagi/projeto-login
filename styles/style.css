@@ -78,6 +78,14 @@ div.field > label {
   display: none;
 }
 
+div.field > i {
+  color:white;
+  background-color: black;
+  font-size: 2em;
+  width: 40px;
+  padding: 5px;
+}
+
 div.field > input {
   background-color:#49a09d;
   font-size:1em;
