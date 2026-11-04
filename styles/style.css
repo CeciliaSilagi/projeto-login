@@ -97,14 +97,14 @@ div.field > input {
   transform: translateY(-12px);
   border: 0px;
   border-radius: 8px;
-  padding: 8px;
+  padding: 4px;
   
 
 }
 
 div.field > i:focus-within {
   background-color: white;
-  border: none;
+  border:none;
 
 }
 
