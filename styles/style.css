@@ -80,10 +80,16 @@ div.field > label {
 
 div.field > i {
   color:white;
-  background-color: black;
+ /* background-color: black; */
   font-size: 2em;
   width: 40px;
   padding: 5px;
+}
+
+div.field > i:focus-within {
+  background-color: white;
+  border: none;
+
 }
 
 div.field > input {
