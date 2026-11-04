@@ -68,11 +68,13 @@ div#form > p {
 
 form > div.field {
   background-color:#5f2c82;
+  border: 2px solid;
   display: block;
   width: 100%;
   height: 40px;
-  border-radius: 5px;
+  border-radius: 8px;
   margin: 5px 0px;
+
 }
 
 div.field > label {
@@ -95,7 +97,7 @@ div.field > input {
   border: 0px;
   border-radius: 8px;
   padding: 4px;
-  transform: translateY(-10px);
+  transform: translateY(-12px);
 
 }
 
