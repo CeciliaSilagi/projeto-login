@@ -100,7 +100,7 @@ div.field > input {
 form > input[type=submit] {
   display: block;
   font-size: 1em;
-  width: calc(100% - 40px);
+  width: calc(100% - 44px);
   height: 40px;
   background-color: #49a09d;
   color: white;
